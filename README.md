@@ -15,6 +15,21 @@ What the bot will do:
 Then, the driver can accept it by replying to the template and informing their car details (plate number, car type etc..)
 Then, students can carpool happilly. 
 
+# Students in the group can request for the carpool by typing: (Carpool request/carpool req)
+# Then, choose the provided place From-To
+![Carpool Bot](1.png) 
+
+# Students choose the number of person that is requesting the carpool.
+![Carpool Bot](2.png)
+
+# Students choose the place where they will be waiting for the carpool.
+![Carpool Bot](3.png)
+
+# The request details will be in the template of this:
+![Carpool Bot](4.png)
+
+# The driver can accept the carpool request by telling their car details.
+![Carpool Bot](5.png)
 
 """ I am currently working on making the bot filters the telegram group so that only students from my campus can enter it. """
 """ For safety reason, and for the drivers, I want them to register their driving license, car plate number etc.. so that """
